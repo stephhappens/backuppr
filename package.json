@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stephhappens/backuppr/issues"
   },
-  "homepage": "https://github.com/stephhappens/backuppr#readme"
+  "homepage": "https://github.com/stephhappens/backuppr#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
 }
