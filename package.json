@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stephhappens/backuppr#readme",
   "dependencies": {
-    "fs-extra": "^4.0.2"
+    "fs-extra": "^4.0.2",
+    "tar": "^4.0.2"
   }
 }
